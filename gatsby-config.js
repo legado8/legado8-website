@@ -3,6 +3,7 @@ module.exports = {
     title: `Legado8`,
     description: `...`,
     author: `@legado8`,
+    siteUrl: `https://legado8.org`,
   },
   plugins: [
     "gatsby-plugin-sass",
