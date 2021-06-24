@@ -19,7 +19,7 @@ export const Menu = () => {
         </li>
       )}
       <li>
-        <a href="https://legado8.github.io/cultural/" target={'_blank'}>
+        <a href="https://legado8.github.io/legado8-cultural/" target={'_blank'}>
           Revista Cultural
         </a>
       </li>
